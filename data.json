@@ -1,44 +1,44 @@
 [
   {
     "full_name": "DerrickWood/kraken2",
-    "stargazers_count": 491,
-    "open_issues_count": 313,
-    "forks_count": 225
+    "stargazers_count": 493,
+    "open_issues_count": 314,
+    "forks_count": 226
   },
   {
     "full_name": "tokio-rs/tokio",
-    "stargazers_count": 18388,
-    "open_issues_count": 239,
-    "forks_count": 1707
+    "stargazers_count": 18414,
+    "open_issues_count": 241,
+    "forks_count": 1710
   },
   {
     "full_name": "pytorch/pytorch",
-    "stargazers_count": 60636,
-    "open_issues_count": 10609,
-    "forks_count": 16889
+    "stargazers_count": 60673,
+    "open_issues_count": 10637,
+    "forks_count": 16899
   },
   {
     "full_name": "HIPS/autograd",
-    "stargazers_count": 6089,
+    "stargazers_count": 6093,
     "open_issues_count": 169,
-    "forks_count": 840
+    "forks_count": 841
   },
   {
     "full_name": "google/jax",
-    "stargazers_count": 21038,
-    "open_issues_count": 1212,
+    "stargazers_count": 21050,
+    "open_issues_count": 1210,
     "forks_count": 1964
   },
   {
     "full_name": "google/jax",
-    "stargazers_count": 21038,
-    "open_issues_count": 1212,
+    "stargazers_count": 21050,
+    "open_issues_count": 1210,
     "forks_count": 1964
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 813,
+    "stargazers_count": 814,
     "open_issues_count": 10,
-    "forks_count": 450
+    "forks_count": 453
   }
 ]
