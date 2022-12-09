@@ -1,33 +1,33 @@
 [
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 15934,
-    "open_issues_count": 152,
-    "forks_count": 371
+    "stargazers_count": 16023,
+    "open_issues_count": 153,
+    "forks_count": 375
   },
   {
     "full_name": "DerrickWood/kraken2",
     "stargazers_count": 493,
-    "open_issues_count": 314,
+    "open_issues_count": 315,
     "forks_count": 225
   },
   {
     "full_name": "google/jax",
-    "stargazers_count": 21078,
-    "open_issues_count": 1215,
-    "forks_count": 1967
+    "stargazers_count": 21115,
+    "open_issues_count": 1216,
+    "forks_count": 1971
   },
   {
     "full_name": "HIPS/autograd",
-    "stargazers_count": 6093,
+    "stargazers_count": 6098,
     "open_issues_count": 170,
-    "forks_count": 841
+    "forks_count": 842
   },
   {
     "full_name": "tokio-rs/tokio",
-    "stargazers_count": 18471,
-    "open_issues_count": 242,
-    "forks_count": 1717
+    "stargazers_count": 18502,
+    "open_issues_count": 240,
+    "forks_count": 1721
   },
   {
     "full_name": "hallambaker/Mathematical-Mesh",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 11191,
-    "open_issues_count": 44,
-    "forks_count": 448
+    "stargazers_count": 11233,
+    "open_issues_count": 48,
+    "forks_count": 451
   },
   {
     "full_name": "leafac/kill-the-newsletter",
-    "stargazers_count": 1524,
-    "open_issues_count": 11,
+    "stargazers_count": 1526,
+    "open_issues_count": 12,
     "forks_count": 76
   },
   {
@@ -85,63 +85,63 @@
   },
   {
     "full_name": "Nelarius/imnodes",
-    "stargazers_count": 1296,
-    "open_issues_count": 39,
-    "forks_count": 162
+    "stargazers_count": 1301,
+    "open_issues_count": 40,
+    "forks_count": 163
   },
   {
     "full_name": "wasmerio/wasmer",
-    "stargazers_count": 13865,
-    "open_issues_count": 179,
-    "forks_count": 595
+    "stargazers_count": 13910,
+    "open_issues_count": 170,
+    "forks_count": 597
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 4780,
+    "stargazers_count": 4823,
     "open_issues_count": 298,
-    "forks_count": 436
+    "forks_count": 438
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 36545,
-    "open_issues_count": 846,
-    "forks_count": 3081
+    "stargazers_count": 36737,
+    "open_issues_count": 850,
+    "forks_count": 3095
   },
   {
     "full_name": "rdlewin/MinervaTextArchiver",
     "stargazers_count": 1,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 1
   },
   {
     "full_name": "hashicorp/terraform-cdk",
-    "stargazers_count": 4099,
-    "open_issues_count": 295,
+    "stargazers_count": 4104,
+    "open_issues_count": 296,
     "forks_count": 359
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 35403,
-    "open_issues_count": 1707,
-    "forks_count": 8170
+    "stargazers_count": 35434,
+    "open_issues_count": 1708,
+    "forks_count": 8194
   },
   {
     "full_name": "OpenZeppelin/nile",
-    "stargazers_count": 302,
-    "open_issues_count": 71,
+    "stargazers_count": 303,
+    "open_issues_count": 70,
     "forks_count": 66
   },
   {
     "full_name": "paulrberg/prb-math",
-    "stargazers_count": 464,
+    "stargazers_count": 469,
     "open_issues_count": 7,
     "forks_count": 72
   },
   {
     "full_name": "foundry-rs/foundry",
-    "stargazers_count": 4844,
-    "open_issues_count": 411,
-    "forks_count": 656
+    "stargazers_count": 4861,
+    "open_issues_count": 421,
+    "forks_count": 657
   },
   {
     "full_name": "ethsociety/web3swift",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 18736,
+    "stargazers_count": 18775,
     "open_issues_count": 2369,
-    "forks_count": 1422
+    "forks_count": 1427
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 35869,
-    "open_issues_count": 901,
-    "forks_count": 2961
+    "stargazers_count": 35989,
+    "open_issues_count": 908,
+    "forks_count": 2970
   },
   {
     "full_name": "arkivanov/Decompose",
-    "stargazers_count": 795,
+    "stargazers_count": 798,
     "open_issues_count": 8,
     "forks_count": 30
   },
   {
     "full_name": "apache/flink",
-    "stargazers_count": 20283,
-    "open_issues_count": 925,
-    "forks_count": 11490
+    "stargazers_count": 20300,
+    "open_issues_count": 927,
+    "forks_count": 11501
   },
   {
     "full_name": "elixir-lang/elixir",
-    "stargazers_count": 21038,
+    "stargazers_count": 21045,
     "open_issues_count": 18,
-    "forks_count": 2980
+    "forks_count": 2981
   }
 ]
