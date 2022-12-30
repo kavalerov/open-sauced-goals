@@ -1,39 +1,39 @@
 [
   {
     "full_name": "commaai/openpilot",
-    "stargazers_count": 37979,
-    "open_issues_count": 308,
-    "forks_count": 6867
+    "stargazers_count": 38001,
+    "open_issues_count": 301,
+    "forks_count": 6875
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 16594,
-    "open_issues_count": 164,
-    "forks_count": 393
+    "stargazers_count": 16664,
+    "open_issues_count": 165,
+    "forks_count": 394
   },
   {
     "full_name": "DerrickWood/kraken2",
-    "stargazers_count": 497,
+    "stargazers_count": 498,
     "open_issues_count": 319,
-    "forks_count": 224
+    "forks_count": 225
   },
   {
     "full_name": "google/jax",
-    "stargazers_count": 21285,
-    "open_issues_count": 1259,
-    "forks_count": 1994
+    "stargazers_count": 21311,
+    "open_issues_count": 1254,
+    "forks_count": 1998
   },
   {
     "full_name": "HIPS/autograd",
-    "stargazers_count": 6120,
+    "stargazers_count": 6123,
     "open_issues_count": 170,
-    "forks_count": 845
+    "forks_count": 846
   },
   {
     "full_name": "tokio-rs/tokio",
-    "stargazers_count": 18677,
-    "open_issues_count": 246,
-    "forks_count": 1736
+    "stargazers_count": 18711,
+    "open_issues_count": 239,
+    "forks_count": 1737
   },
   {
     "full_name": "hallambaker/Mathematical-Mesh",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "Charca/astro-blog-template",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 4,
     "forks_count": 25
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 11504,
-    "open_issues_count": 50,
-    "forks_count": 468
+    "stargazers_count": 11565,
+    "open_issues_count": 63,
+    "forks_count": 472
   },
   {
     "full_name": "leafac/kill-the-newsletter",
-    "stargazers_count": 1553,
-    "open_issues_count": 15,
-    "forks_count": 77
+    "stargazers_count": 1557,
+    "open_issues_count": 13,
+    "forks_count": 76
   },
   {
     "full_name": "ably/kotlin",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "ansiwave/nimwave",
-    "stargazers_count": 409,
+    "stargazers_count": 410,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "Nelarius/imnodes",
-    "stargazers_count": 1324,
+    "stargazers_count": 1326,
     "open_issues_count": 41,
-    "forks_count": 165
+    "forks_count": 166
   },
   {
     "full_name": "wasmerio/wasmer",
-    "stargazers_count": 14055,
-    "open_issues_count": 172,
-    "forks_count": 604
+    "stargazers_count": 14067,
+    "open_issues_count": 174,
+    "forks_count": 605
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 5025,
-    "open_issues_count": 301,
+    "stargazers_count": 5070,
+    "open_issues_count": 303,
     "forks_count": 450
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 37542,
-    "open_issues_count": 868,
-    "forks_count": 3169
+    "stargazers_count": 38020,
+    "open_issues_count": 875,
+    "forks_count": 3211
   },
   {
     "full_name": "rdlewin/MinervaTextArchiver",
@@ -121,33 +121,33 @@
   },
   {
     "full_name": "hashicorp/terraform-cdk",
-    "stargazers_count": 4131,
-    "open_issues_count": 308,
+    "stargazers_count": 4135,
+    "open_issues_count": 307,
     "forks_count": 361
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 35616,
-    "open_issues_count": 1732,
-    "forks_count": 8240
+    "stargazers_count": 35645,
+    "open_issues_count": 1739,
+    "forks_count": 8245
   },
   {
     "full_name": "OpenZeppelin/nile",
-    "stargazers_count": 304,
+    "stargazers_count": 305,
     "open_issues_count": 67,
     "forks_count": 65
   },
   {
     "full_name": "paulrberg/prb-math",
-    "stargazers_count": 482,
+    "stargazers_count": 487,
     "open_issues_count": 7,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "foundry-rs/foundry",
-    "stargazers_count": 4983,
-    "open_issues_count": 448,
-    "forks_count": 680
+    "stargazers_count": 5012,
+    "open_issues_count": 459,
+    "forks_count": 684
   },
   {
     "full_name": "ethsociety/web3swift",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "ziglang/zig",
-    "stargazers_count": 19035,
-    "open_issues_count": 2354,
-    "forks_count": 1444
+    "stargazers_count": 19087,
+    "open_issues_count": 2270,
+    "forks_count": 1449
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 36807,
-    "open_issues_count": 941,
-    "forks_count": 3047
+    "stargazers_count": 36955,
+    "open_issues_count": 924,
+    "forks_count": 3066
   },
   {
     "full_name": "arkivanov/Decompose",
-    "stargazers_count": 815,
+    "stargazers_count": 821,
     "open_issues_count": 8,
     "forks_count": 30
   },
   {
     "full_name": "apache/flink",
-    "stargazers_count": 20359,
-    "open_issues_count": 951,
-    "forks_count": 11536
+    "stargazers_count": 20372,
+    "open_issues_count": 956,
+    "forks_count": 11546
   }
 ]
